@@ -11,6 +11,7 @@
 <a href="https://github.com/Nicolasking007/Scriptable/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Nicolasking007/Scriptable?color=red&style=flat-square"></a>
 <a href="https://apps.apple.com/cn/app/scriptable/id1405459188"><img alt="Scriptables" src="https://img.shields.io/badge/-IOS-black?logo=apple"></a>
 <a href="https://scriptable.app/mac-beta/"><img alt="Scriptables" src="https://img.shields.io/badge/-MacOS-black?logo=apple"></a>
+<a href="README_CN.md">中文</a>
 </div>
  
 
